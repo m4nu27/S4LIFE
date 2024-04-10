@@ -1,6 +1,7 @@
 # S4LIFE
 
 Funções no trabalho:
+
 Emily:
  - Figma (quadros)
  - Um pouco do código (um pouco da main)
